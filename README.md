@@ -2,8 +2,10 @@
 
 A sleek, interactive 3D cube animation built with HTML, CSS, and JavaScript. This project showcases smooth rotation, perspective depth, and glowing edges—perfect for learning or demonstrating 3D transforms in the browser.
 
-## 🔮 Live Demo
-Coming soon via GitHub Pages...
+## 🚀 Live Demo
+
+[Click here to view the 3D Cube Animation](https://bati58.github.io/3D-Cube-Animation/)
+
 
 ## 📦 Repository
 [GitHub Repo](https://github.com/bati58/3D-Cube-Animation)
