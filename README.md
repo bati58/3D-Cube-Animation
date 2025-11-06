@@ -22,8 +22,3 @@ A sleek, interactive 3D cube animation built with HTML, CSS, and JavaScript. Thi
 - CSS3 (3D transforms, keyframe animations, gradients)
 - JavaScript (optional interactivity or control)
 
-## 🚀 Setup
-Clone the repo and open `index.html` in your browser:
-```bash
-git clone https://github.com/bati58/3D-Cube-Animation.git
-cd 3D-Cube-Animation
