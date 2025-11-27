@@ -1,6 +1,8 @@
 # 🧊 3D Cube Animation
 
 A sleek, interactive 3D cube animation built with HTML, CSS, and JavaScript. This project showcases smooth rotation, perspective depth, and glowing edges—perfect for learning or demonstrating 3D transforms in the browser.
+<!--webpage interface-->
+![3D cube](webpage-screenshot.jpg)
 
 ## 🚀 Live Demo
 
